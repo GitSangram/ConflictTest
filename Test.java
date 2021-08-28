@@ -5,6 +5,6 @@ System.out.println(add(12,33));
 
 }
 public static int add(int a,int b){
-return a+b;
+return a-b;
 }
 }
